@@ -4,7 +4,7 @@ The program can encrypt and decrypt messages by matching each character with a r
 
 It supports letters, numbers, punctuation, and spaces.
 
-What the program does :3
+*What the program does :3*
 
 Creates a list of characters (letters, numbers, punctuation, etc.)
 
@@ -16,12 +16,12 @@ Decryption: does the same thing but in reverse
 
 Basically, every character gets swapped with another one, and only the shuffled key can undo it.
 
-Example:
-------------------------
-Original:  Hello!
-Encrypted: %A$92~
-Decrypted: Hello!
-------------------------
+*Example:*
+*------------------------*
+*Original:  Hello!*
+*Encrypted: %A$92~*
+*Decrypted: Hello!*
+*------------------------*
 
 (The encrypted part changes every time because the key is random.)
 
