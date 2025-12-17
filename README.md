@@ -16,12 +16,12 @@ Decryption: does the same thing but in reverse
 
 Basically, every character gets swapped with another one, and only the shuffled key can undo it.
 
-*Example:*
-*------------------------*
-*Original:  Hello!*
-*Encrypted: %A$92~*
-*Decrypted: Hello!*
-*------------------------*
+Example:
+------------------------
+Original:  Hello!
+Encrypted: %A$92~
+Decrypted: Hello!
+------------------------
 
 (The encrypted part changes every time because the key is random.)
 
